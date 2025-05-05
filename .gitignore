@@ -3,3 +3,11 @@ Persistence/obj/Debug/net9.0/Persistence.AssemblyInfoInputs.cache
 API/obj/project.nuget.cache
 API/obj/project.nuget.cache
 API/obj/Debug/net9.0/API.AssemblyInfoInputs.cache
+API/reactivities.db-shm
+API/reactivities.db-wal
+Application/obj/Debug/net9.0/Application.AssemblyInfoInputs.cache
+Application/obj/Debug/net9.0/Application.csproj.AssemblyReference.cache
+Application/obj/Debug/net9.0/Application.csproj.CoreCompileInputs.cache
+Domain/obj/Debug/net9.0/Domain.AssemblyInfoInputs.cache
+Persistence/obj/Debug/net9.0/Persistence.csproj.CoreCompileInputs.cache
+Persistence/obj/Debug/net9.0/Persistence.csproj.AssemblyReference.cache
