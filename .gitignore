@@ -14,7 +14,6 @@ API/reactivities.db-shm
 API/reactivities.db-wal
 *.pdb
 *.dll
-API/reactivities.db
 Persistence/Migrations/20250502151454_InitialCreate.cs
 Persistence/Migrations/20250502151454_InitialCreate.Designer.cs
 Persistence/Migrations/AppDbContextModelSnapshot.cs
