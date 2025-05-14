@@ -7,6 +7,7 @@
 *.db-shm
 *.db-wal
 *.json
+*.vsidx
 *.editorconfig
 node_modules/
 API/reactivities.db-shm
